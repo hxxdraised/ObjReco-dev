@@ -1,0 +1,9 @@
+borjomi_can
+bud_can
+actimel_bottle
+bud_bottle
+canned_food
+lipton_green_box
+coca-cola_bottle
+global_village
+tess_black_box
